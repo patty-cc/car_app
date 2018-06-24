@@ -70,33 +70,45 @@ db.lambo.insert([
     speed:"130mph"
   },
   {
-    model:
-    dates:
-    engine:
-    speed:
+    model:"Diablo",
+    dates:"1990-2001",
+    engine:"V12 5.7 litre",
+    speed:"200mph"
   },
   {
-    model:
-    dates:
-    engine:
-    speed:
+    model:"Murcielago",
+    dates:"2001-2010",
+    engine:"V12 6.2 litre",
+    speed:"210mph"
   },
   {
-    model:
-    dates:
-    engine:
-    speed:
+    model:"Gallardo",
+    dates:"2003-2013",
+    engine:"V10 5.0 litre",
+    speed:"192mph"
   },
   {
-    model:
-    dates:
-    engine:
-    speed:
+    model:"Reventon",
+    dates:"2008-2010",
+    engine:"V12 6.5 litre",
+    speed:"221.20mph"
   },
   {
-    model:
-    dates:
-    engine:
-    speed:
+    model:"Sesto Elemento",
+    dates:"2012",
+    engine:"V10 5.2 litre",
+    speed:"219mph"
   },
+  {
+    model:"Egoista",
+    dates:"2013",
+    engine:"V10 5.2 litre",
+    speed:"217mph"
+  },
+  {
+    model:"Veneno",
+    dates:"2013-2014",
+    engine:"V12 6.5 litre",
+    speed:"221mph"
+  }
 ]);
